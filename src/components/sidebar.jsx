@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/venkat.mee.56/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 {/* <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li> */}
-                <li><a href="https://www.instagram.com/meesala520/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.instagram.com/venkey_me/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/venkateswarlu-meesala-1b1895189/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/venkeymee" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://medium.com/@venkeymee/" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>

@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/venkey/static/js/2.8ebec04f.chunk.js"
   },
   {
-    "revision": "ba8e458c289ea220bf7ea04a0885414c",
+    "revision": "6b9cd3736c22a6ed2d0f01907e1a3886",
     "url": "/venkey/index.html"
   }
 ];
